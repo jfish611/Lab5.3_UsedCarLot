@@ -1,0 +1,11 @@
+C:\Users\jfish\source\repos\Lab5.3_UsedCarLot\bin\Debug\netcoreapp3.1\Lab5.3_UsedCarLot.exe
+C:\Users\jfish\source\repos\Lab5.3_UsedCarLot\bin\Debug\netcoreapp3.1\Lab5.3_UsedCarLot.deps.json
+C:\Users\jfish\source\repos\Lab5.3_UsedCarLot\bin\Debug\netcoreapp3.1\Lab5.3_UsedCarLot.runtimeconfig.json
+C:\Users\jfish\source\repos\Lab5.3_UsedCarLot\bin\Debug\netcoreapp3.1\Lab5.3_UsedCarLot.runtimeconfig.dev.json
+C:\Users\jfish\source\repos\Lab5.3_UsedCarLot\bin\Debug\netcoreapp3.1\Lab5.3_UsedCarLot.dll
+C:\Users\jfish\source\repos\Lab5.3_UsedCarLot\bin\Debug\netcoreapp3.1\Lab5.3_UsedCarLot.pdb
+C:\Users\jfish\source\repos\Lab5.3_UsedCarLot\obj\Debug\netcoreapp3.1\Lab5.3_UsedCarLot.csprojAssemblyReference.cache
+C:\Users\jfish\source\repos\Lab5.3_UsedCarLot\obj\Debug\netcoreapp3.1\Lab5.3_UsedCarLot.AssemblyInfoInputs.cache
+C:\Users\jfish\source\repos\Lab5.3_UsedCarLot\obj\Debug\netcoreapp3.1\Lab5.3_UsedCarLot.AssemblyInfo.cs
+C:\Users\jfish\source\repos\Lab5.3_UsedCarLot\obj\Debug\netcoreapp3.1\Lab5.3_UsedCarLot.dll
+C:\Users\jfish\source\repos\Lab5.3_UsedCarLot\obj\Debug\netcoreapp3.1\Lab5.3_UsedCarLot.pdb
